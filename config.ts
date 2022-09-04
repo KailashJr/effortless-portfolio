@@ -12,37 +12,37 @@ export const analyticsId = "G-2S22V4P442";
 export const deployedURL = "https://effortless-portfolio.vercel.app";
 
 export const information: InformationType = {
-	email: "sahrohit9586@gmail.com",
-	firstName: "Rohit",
-	lastName: "Sah",
+	email: "jirelkailash2020@gmail.com",
+	firstName: "Kailash",
+	lastName: "Jirel",
 	description:
-		"I am a software engineer and a web developer. I am passionate about building web applications and solving problems.",
+		"I am a mechanical engineer. I am passionate about designing new products and solving problems.",
 	highlightingStats: [
 		{
 			title: "Projects",
-			value: 10,
+			value: 4,
 		},
 		{
-			title: "Reddit Karma",
-			value: 13862,
+			title: "Balls",
+			value: 2,
 		},
 	],
 	socials: {
-		github: "http://github.com/sahrohit",
-		linkedin: "https://www.linkedin.com/in/sahrohit/",
-		twitter: "https://twitter.com/sah_rohite",
-		instagram: "https://www.instagram.com/sah_rohite/",
-		facebook: "https://www.facebook.com/imadeyoureadthis26/",
-		medium: "https://medium.com/@sahrohit9586",
-		youtube: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-		stackoverflow: "https://stackoverflow.com/users/13238555/rohit",
+		github: "http://github.com/KailashJr",
+		linkedin: "https://www.linkedin.com/in/kailash-jirel-388b73217/",
+		twitter: null,
+		instagram: "https://www.instagram.com/kailashjirel14/",
+		facebook: "https://www.facebook.com/kailash.jirel.908/",
+		medium:null,
+		youtube:null,
+		stackoverflow:null,
 	},
 	whatido:
-		"I`ve been learning web design for several years and am presently pursuing a degree as a Computer Science Engineer with an emphasis on database architecture, and machine learning.",
+		"I`ve been passionate about machie design for several years and am presently pursuing a degree as a Mechanical Engineer with an emphasis on Computational Fluid Dynamics(CFD),Design and Robotics.",
 	skills: [
 		{
 			type: "Languages",
-			list: ["English", "Japanese", "Hindi", "Nepali"],
+			list: ["English", "Jirel", "Hindi", "Nepali"],
 		},
 	],
 	skillsWithIcons: [
