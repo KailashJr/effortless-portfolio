@@ -16,7 +16,7 @@ export const information: InformationType = {
 	firstName: "Kailash",
 	lastName: "Jirel",
 	description:
-		"I am a mechanical engineer. I am passionate about designing new products and solving problems.",
+		"This website is under developement.",
 	highlightingStats: [
 		{
 			title: "Projects",
@@ -38,7 +38,7 @@ export const information: InformationType = {
 		stackoverflow:null,
 	},
 	whatido:
-		"I`ve been passionate about machie design for several years and am presently pursuing a degree as a Mechanical Engineer with an emphasis on Computational Fluid Dynamics(CFD),Design and Robotics.",
+		"I`ve been passionate about machine design for several years and am presently pursuing a degree as a Mechanical Engineer with an emphasis on Computational Fluid Dynamics(CFD),Design and Robotics.",
 	skills: [
 		{
 			type: "Languages",
